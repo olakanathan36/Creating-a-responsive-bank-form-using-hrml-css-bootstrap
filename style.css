@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    background-color: rgb(232, 235, 135);
+    color: white;
+    margin-top: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 750px;
+    background-color: rgb(215, 225, 236);
+    padding: 100px 10px;
+    margin-top: 50px;
+}
+i{
+    font-size: xx-large;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: brown;
+}
+label{
+    margin-bottom:15px;
+    font-size: small;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input[type="text"]{
+    width: 100%;
+    margin: 5px 0px;
+    border-radius: 5px;
+}
+
+hr.new{
+    border: 1px solid black;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    margin-left: 350px;
+    margin-top: 2px;
+}
